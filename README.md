@@ -1,4 +1,4 @@
-# bikesharing
+# Bringing Bikesharing to Des Moines
 
 ## Purpose
 The purpose of this analysis is to get enough data to talk to investors about opening a bike share business in Des Moines IA. The data we are analysing comes from a similar business that is already successfull in New York NY. 
