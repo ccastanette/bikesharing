@@ -21,6 +21,9 @@ We were also able to create a Tableau Story that allows us to create a presentat
 ### Link to our Tableau Dashboard that includes all visualizations is here:
 [Link to Dashboard](https://public.tableau.com/profile/carmen.r.castanette#!/vizhome/bikesharing_16104264868730/NYCCitiBikeChallenge?publish=yes)
 
+## Recommendations: 
+I would recommend we do the same analysis for the rest of the months of the year. I would also recommend doing some population analysis on the difference in both year round population and tourist population between New York and Des Moines. I think that would give us a better idea of the scale differences between our business and the business in New York.
+
 ### Technology used:
 - Tableau Public
 - Jupyter Notebooks
